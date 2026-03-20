@@ -1,4 +1,4 @@
-import random  #랜덤숫자 라이브러리 기능 불러옴
+import random  #랜덤 불러옴
 anwer = random.randint(1, 100) #랜덤숫자의 범위 (1~100)
 print("숫자 게임에 오신걸 환영합니다, 1부터 100까지의 숫자 중 하나를 맞춰보세요:)") #게임 시작 대사
 while True: #조건이 참인 동안은 계속 반복
